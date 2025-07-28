@@ -5,10 +5,10 @@ The gain-scheduling approach was utilized to implement the developed controller 
 
 The following are some essential files associated with the work:
 
-1 - Full nonlinear bicycle model
-2 - Polytopic H-infinity control synthesis
-3 - Benchmark Nonlinear MPC control synthesis
-4 - Software implementation of the AVs controlled system
+1 - Full nonlinear bicycle model;
+2 - Polytopic H-infinity control synthesis;
+3 - Benchmark Nonlinear MPC control synthesis;
+4 - Software implementation of the AVs controlled system.
 
 A summary of this work was published in IEEE ICRCA 2024 and can be accessed via 
 DOI: 10.1109/ICRCA60878.2024.10649172
