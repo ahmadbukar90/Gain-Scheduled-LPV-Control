@@ -4,7 +4,10 @@ Specifically, we wrote a MATLAB code to design a polytopic H-infinity controller
 The gain-scheduling approach was utilized to implement the developed controller in SIMULINK.
 
 The following are some essential files associated with the work:
+
 1 - Full nonlinear bicycle model
+
 2 - Polytopic H-infinity control synthesis
+
 3 - Benchmark Nonlinear MPC control synthesis
 4 - Software implementation of the AVs controlled system
