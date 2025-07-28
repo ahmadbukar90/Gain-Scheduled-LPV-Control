@@ -1,6 +1,6 @@
 # Gain-Scheduled-LPV-Control Vs Non-linear MPC
 In this work, we developed Robust LPV-based Adaptive Lateral Control for Autonomous Vehicles (AV) in dangerous situations. Comparison with NMPC was done for benchmarking.
-Specifically, we wrote a MATLAB code to design a polytopic H-infinity controller to improve stability and adaptability to autonomous vehicles moving at high speed turns on slippery roads
+Specifically, we wrote a program to design a polytopic H-infinity controller to improve stability and adaptability to autonomous vehicles moving during high-speed turns on slippery roads. The program was coded in MATLAB, integrated with LAYMIP and CasADi for mixed-integer programming, symbolic computation, and optimization.
 The gain-scheduling approach was utilized to implement the developed controller in SIMULINK.
 
 The following are some essential files associated with the work:
